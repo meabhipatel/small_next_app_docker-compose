@@ -1,6 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 
+// Pushing code to EC2 with git post-receive hook
+
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
